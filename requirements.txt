@@ -1,4 +1,4 @@
 nltk
 joblib
 streamlit
-panda
+pandas
